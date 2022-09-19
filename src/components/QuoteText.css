@@ -1,0 +1,17 @@
+.card__quote {
+  margin-bottom: 15px;
+  font-size: 40px;
+  font-family: 'Amatic SC', cursive;
+  font-weight: 700;
+  text-shadow: 1px 1px 2px #000;
+}
+
+.card__author {
+  margin-left: auto;
+  width: max-content;
+  margin-bottom: 20px;
+  font-size: 70px;
+  font-family: 'Amatic SC', cursive;
+  text-shadow: 2px 2px 2px #000;
+  text-decoration: underline dotted;
+}
